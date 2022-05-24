@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(255, 255, 0, 0.219);
+}
+.jumbotron{
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 700px;
+    background-color: brown;
+    color: wheat;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    
+}
+#heading{
+    text-align: center;
+    color: maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
